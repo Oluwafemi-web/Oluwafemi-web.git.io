@@ -1,1 +1,165 @@
 theme: jekyll-theme-cayman
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>www.lhbcportharcourt.org</title>
+        <link rel = "stylesheet" href="style.css">
+        <link rel = "stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+        <div class = "logo">
+            <a href = ""><img src = "logo.jpeg"Alt = "" width = 50px></a>
+        </div>
+        <div class = "menu-bar">
+            <ul>
+                <li class = "active"><a href = "www.lhbcportharcourt.org/Home"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
+                <li><a href = "www.lhbcportharcourt.com/About us"><i class="fa fa-user" aria-hidden="true"></i>About Us</a>
+                    <div class = "sub-menu-1">
+                        <ul>
+                            <li><a href = "#">Our History</a></li>
+                            <li><a href = "#">Living Hope Baptist College</a></li>
+                            <li><a href = "#">Living Hope Baptist Nur. & Pry. Schl</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href = "www.lhbcportharcourt.com/Resources"><i class="fa fa-comments-o" aria-hidden="true"></i>Resources</a>
+                    <div class = "sub-menu-1">
+                        <ul>
+                            <li><a href = "#">Our Blog</a></li>
+                            <li><a href = "#">Downloads</a></li>
+                            <li><a href = "#">Sermon Note</a></li>
+                            <li><a href = "#">Daily Devotional</a></li>
+                            <li><a href = "#">LHBC TV Live</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href = "www.lhbcportharcourt.com/Gallery"><i class="fa fa-picture-o" aria-hidden="true"></i>Gallery</a>
+                    <div class = "sub-menu-1">
+                        <ul>
+                            <li><a href = "#">Photo Gallery</a></li>
+                            <li><a href = "#">Video Gallery</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href = "www.lhbcportharcourt.com/Our Ministires"><i class="fa fa-clone" aria-hidden="true"></i>Our Ministries</a>
+                    <div class = "sub-menu-1">
+                        <ul>
+                            <li><a href = "#">Mens' Ministry</a></li>
+                            <li><a href = "#">BAPTIST WOMEN MISSIONARY UNION(Womens' Ministry)</a></li>
+                            <li><a href = "#">Youth Ministry</a></li>
+                            <li><a href = "#">Teenagers' Ministry</a></li>
+                            <li><a href = "#">Childrens' Ministry</a></li>
+                            <li><a href = "#">Young Couples' Ministry</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href = "www.lhbcportharcourt.org/Contact us" class =><i class="fa fa-phone" aria-hidden="true"></i>Contact Us</a>
+                    <div class = "sub-menu-1">
+                        <ul>
+                            <li><a href = "#">E-mail</a></li>
+                            <li><a href = "#">Map</a></li>
+                            <li><a href = "#">Directions</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href = "www.lhbcportharcourt.com/Give Online"><i class="fa fa-handshake-o" aria-hidden="true"></i>Give Online</a></li>
+                <li><a href = "facebook.com/revdsteveayorinde">Live Events</a></li>
+            </ul>
+        </div>
+        <div class = "banner">
+            <img class = "banner-image" src = "family.jpg"  alt = "">
+            <h1 class = "join">Join Us Online</h1>
+                <ul>
+                    <li><i class="fa fa-facebook-square" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-twitter-square" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                    <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                </ul>
+                <h4>@revdsteveayorinde</h4>
+        </div>
+        <!--Banner ends here-->
+            <div class = "welcome">
+                <p class = "v">Missed Our previous Service?<br/>Watch now!</p>
+                <iframe src = "https://www.youtube.com/embed/p8430sYw0?autoplay=1"></iframe>
+                <h3>Welcome Address</h3>
+                <img class = "dad" src ="Baptis.jpg" alt = "">
+                <p class = "address">
+                    On behalf of all members of Living Hope Baptist Church, (Testimony Ground), Port Harcourt, I welcome you to the official website of the Church.<br/>
+                    We are using this website to introduce you to our church family and the various ministries we engage in. 
+                    We are a unique set of people from all<br/>works of life brought together by God for signs and wonders.<br/>
+                    We are endowed by God with goodly heritage (Psalm 16:6); hence, we are positioned to fulfill the mandate of giving hope to the hopeless in a hopeless world (Job 14:7-9). 
+                        We are World Changers; people who will transform the world through their God given gifts/talents. 
+                        We are the salt of the earth Matt. 5:13. We believe that being the salt of the world has a lot to do with giving hope to hopeless around us and that it is not the 
+                        responsibility of the congregational body called LHBC alone to give hope but also the responsibility of every individual member.<br/> 
+                        This is very important to us because “the Church is not for entertaining believers, but it is a place to raise up world changers and history makers.” (Sunday Adelaja). 
+                        For example, Paul and Silas were accused of turning the world upside down (Acts 17:6), we also aspire to change our world for God; therefore, I implore you to join our changing world. 
+                        Welcome to your moment of <b>IMPARTATION FOR UNCOMMON IMPACTS.</b>
+                </p>
+                <p class = "pastor">Revd. Dr. Steve O.O. Ayorinde</p>
+                <p class = "title">Church Pastor</p>
+            </div>
+                <div class = "worship">Fellowship Opportunities</div>
+                    <div align = "center" class = "services">
+                        <div class ="service1">
+                            <h2>Sundays</h2>
+                                <a href = "#"><img class = "image" src ="web.png" alt = ""></a>
+                            <p>Sunday School<br/>9:00am-10:00am</p>
+                        </div>
+                        <div class ="service1">
+                            <h2>Sundays</h2>
+                                <a href = "#"><img class = "image" src ="web.png" alt = ""></a>
+                            <p>Worship Experience<br/>10:00am-11:00am</p>
+                        </div>
+                        <div class ="service1">
+                            <h2>Sundays</h2>
+                                <a href = "#"><img class = "image" src ="web.png" alt = ""></a>
+                            <p>House Fellowship<br/>5:00pm-6:00pm</p>
+                        </div>
+                        <div class ="service1">
+                            <h2>Thursdays</h2>
+                                <a href = "#"><img class = "image" src ="web.png" alt = ""></a>
+                            <p>Mid-week Service<br/>5:30pm-7:00pm</p>
+                        </div>
+            </div>
+                <div class = "foots">
+                    <img class = "foot" src = "logo.jpeg" alt = "">
+                        <ul>
+                            <li><b>About Us</b></li>
+                            <a href = "#"><li>Home</li></a>
+                            <a href = "#"><li>About</li></a>
+                            <a href = "#"><li>Contact Us</li></a>
+                            <a href = "#"><li>Living Hope Baptist College</li></a>
+                            <a href = "#"><li>Living Hope Baptist Nur. & Pry. Schl.</li></a>
+                        </ul>
+                        <ul class = "foots2">
+                            <li><b>Quick Links</b></li>
+                            <a href = "#"><li>Our Blog</li></a>
+                            <a href = "#"><li>Downloads</li></a>
+                            <a href = "#"><li>Photo Gallery</li></a>
+                            <a href = "#"><li>LHBC TV Live</li></a>
+                            <a href = "#"><li>Video Gallery</li></a>
+                            <a href = "#"><li>Sermon Notes</li></a>
+                            <a href = "#"><li>Daily Devotional</li></a>
+                        </ul>
+                </div>
+                <div class = "footer">
+                    <div class = "form">
+                        <h5>Send Prayer Request</h5>
+                        <input type="text" placeholder="Your Prayer Request" class = "text"required><br/>
+                        <input type="number" placeholder="Your Phone No." required class = "no"><br/>
+                        <button class = "button">Send</button>
+                    </div>
+                    <p class = "c">2020 <a href = "#">©</a> Living Hope Baptist Church PH. Nig.</p>
+                    <div class = "icon">
+                        <ul>
+                            <li><i class="fa fa-facebook-square" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-twitter-square" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-youtube-play" aria-hidden="true"></i></li>
+                            <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                        </ul>
+                    </div>
+                </div>
+                <script tpye="text/javascript" src = "Lhbc.js"></script>
+    </body>
+</html>
